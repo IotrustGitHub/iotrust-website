@@ -3007,3 +3007,19 @@ body.is-menu-visible #menu {
 @media screen and (max-width: 736px) {
   #iotrust-team {
     display: none; } }
+
+.badge {
+  max-width: 160px;
+  padding-top: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  display: inline-block; }
+  .badge span {
+    display: inline-block;
+    position: relative;
+    max-width: 100%; }
+    .badge span img {
+      max-width: 100%;
+      height: auto;
+      position: relative; }

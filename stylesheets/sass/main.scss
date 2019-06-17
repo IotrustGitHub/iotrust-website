@@ -104,3 +104,17 @@
                         display: none;
                 }
         }
+	.badge {
+		max-width: 160px;
+		padding-top: 4px;
+		padding-right: 4px;
+		padding-bottom: 4px;
+		padding-left: 4px;
+		display: inline-block;
+		span { 
+			display: inline-block; 
+			position: relative; 
+			max-width: 100%; 
+			img { max-width: 100%; height: auto; position: relative; }
+		}
+    	}
