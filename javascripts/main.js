@@ -348,7 +348,7 @@
 			});
 
 	// Tabs.
-		$('.tabs').selectorr({
+		$('.tabs').selector({
 			titleSelector: 'h3',
 			delay: 250
 		});
